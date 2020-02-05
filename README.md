@@ -4,7 +4,7 @@ Motivation:
 To reduce the risk of landing overrun.
 
 Goal:
-Use various GLM (generalized linear models) to study what factors and how they would impact the landing distance of a commercial flight.
+Use various linear regression model to study what factors and how they would impact the landing distance of a commercial flight.
 
 Data:
 Landing data (landing distance and other parameters) from 950 commercial flights.
